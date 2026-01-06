@@ -21,8 +21,8 @@ This project demonstrates practical usage of **LLMs, vector databases, and backe
 
 ## ⚙️ Installation & Setup
 1️⃣ Clone the Repository
--- git clone https://github.com/your-username/FAQ_chatbot.git
--- cd FAQ_chatbot
+- git clone https://github.com/your-username/FAQ_chatbot.git
+- cd FAQ_chatbot
 
 2️⃣ Create a Virtual Environment (Recommended)
 -- python3 -m venv venv
