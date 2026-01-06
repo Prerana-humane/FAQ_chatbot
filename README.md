@@ -25,20 +25,20 @@ This project demonstrates practical usage of **LLMs, vector databases, and backe
 - cd FAQ_chatbot
 
 2️⃣ Create a Virtual Environment (Recommended)
--- python3 -m venv venv
--- source venv/bin/activate
+- python3 -m venv venv
+ source venv/bin/activate
 On Windows:
--- venv\Scripts\activate
+- venv\Scripts\activate
 
 3️⃣ Install Dependencies
--- pip install -r requirements.txt
+- pip install -r requirements.txt
 
 4️⃣ Prepare FAQ Data
--- Ensure your FAQ knowledge base is available in:
--- faq_data.json
+- Ensure your FAQ knowledge base is available in:
+- faq_data.json
 
 5️⃣ Run the Application
--- streamlit run faq_bot.py
+- streamlit run faq_bot.py
 
 ---
 ## 🧪 Usage
