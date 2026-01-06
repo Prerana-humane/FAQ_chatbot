@@ -1,0 +1,146 @@
+[
+  {
+    "question": "What payment methods are accepted",
+    "answer": "credit cards, debit cards, UPI, PayPal, and net banking",
+    "similarity_score": 0.788,
+    "timestamp": "2025-12-19T12:57:39.182866"
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "credit cards, debit cards, UPI, PayPal, and net banking",
+    "similarity_score": 0.8,
+    "timestamp": "2025-12-19T14:14:06.950763"
+  },
+  {
+    "question": "How long does delivery take?",
+    "answer": "3 to 5 business days",
+    "similarity_score": 0.637,
+    "timestamp": "2025-12-19T14:14:15.127389"
+  },
+  {
+    "question": "Is there a warranty on products?",
+    "answer": "Most electronic products come with a standard 1-year manufacturer warranty.",
+    "similarity_score": 0.523,
+    "timestamp": "2025-12-19T14:14:20.107164"
+  },
+  {
+    "question": "Do you offer international shipping?",
+    "answer": "Yes.",
+    "similarity_score": 0.65,
+    "timestamp": "2025-12-19T14:14:24.861610"
+  },
+  {
+    "question": "Is there a warranty on products?",
+    "answer": "Most electronic products come with a standard 1-year manufacturer warranty.",
+    "similarity_score": 0.523,
+    "timestamp": "2025-12-19T14:14:29.066464"
+  },
+  {
+    "question": "Do you offer international shipping?",
+    "answer": "Yes.",
+    "similarity_score": 0.65,
+    "timestamp": "2025-12-19T14:15:44.533993"
+  },
+  {
+    "question": "How long does delivery take?",
+    "answer": "3 to 5 business days",
+    "similarity_score": 0.637,
+    "timestamp": "2025-12-19T14:17:26.500621"
+  },
+  {
+    "question": "how many days we take for delivery",
+    "answer": "3 to 5 business days",
+    "similarity_score": 0.649,
+    "timestamp": "2025-12-19T14:17:53.806631"
+  },
+  {
+    "question": "when i can get my return product",
+    "answer": "within 30 days of purchase",
+    "similarity_score": 0.606,
+    "timestamp": "2025-12-19T14:18:59.420330"
+  },
+  {
+    "question": "what about the damage product",
+    "answer": "Customers must report damaged or defective products within 48 hours of delivery to receive a replacement or refund.",
+    "similarity_score": 0.428,
+    "timestamp": "2025-12-19T14:21:43.783940"
+  },
+  {
+    "question": "can i get refund",
+    "answer": "Refunds are processed within 5 to 7 business days after the returned item is inspected.",
+    "similarity_score": 0.49,
+    "timestamp": "2025-12-19T14:25:38.318256"
+  },
+  {
+    "question": "can i get refund of product",
+    "answer": "Refunds are processed within 5 to 7 business days after the returned item is inspected.",
+    "similarity_score": 0.526,
+    "timestamp": "2025-12-19T14:25:53.147933"
+  },
+  {
+    "question": "how many days refund will take",
+    "answer": "5 to 7 business days",
+    "similarity_score": 0.729,
+    "timestamp": "2025-12-19T14:26:13.529881"
+  },
+  {
+    "question": "What is your return policy?",
+    "answer": "Customers can return unused products within 30 days of purchase. Items must be in original packaging with proof of purchase. Refunds: Refunds are processed within 5 to 7 business days after the returned item is inspected. Warranty policy: Most electronic products come with a standard 1-year manufacturer warranty. Shipping policy: We offer both domestic and international shipping to most countries worldwide.",
+    "similarity_score": 0.555,
+    "timestamp": "2026-01-05T15:47:15.342785"
+  },
+  {
+    "question": "How long does delivery take?",
+    "answer": "3 to 5 business days",
+    "similarity_score": 0.637,
+    "timestamp": "2026-01-05T15:47:48.273738"
+  },
+  {
+    "question": "Is there a warranty on products?",
+    "answer": "Most electronic products come with a standard 1-year manufacturer warranty.",
+    "similarity_score": 0.523,
+    "timestamp": "2026-01-05T15:47:52.208063"
+  },
+  {
+    "question": "Do you offer international shipping?",
+    "answer": "Yes.",
+    "similarity_score": 0.65,
+    "timestamp": "2026-01-05T15:48:21.718678"
+  },
+  {
+    "question": "How long does delivery take?",
+    "answer": "3 to 5 business days",
+    "similarity_score": 0.637,
+    "timestamp": "2026-01-05T15:48:25.344820"
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "credit cards, debit cards, UPI, PayPal, and net banking",
+    "similarity_score": 0.8,
+    "timestamp": "2026-01-05T15:48:28.958505"
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "credit cards, debit cards, UPI, PayPal, and net banking",
+    "similarity_score": 0.8,
+    "timestamp": "2026-01-05T15:56:43.976798"
+  },
+  {
+    "question": "how many days refund take?",
+    "answer": "5 to 7 business days",
+    "similarity_score": 0.709,
+    "timestamp": "2026-01-05T16:09:22.688075"
+  },
+  {
+    "question": "how many days take to deilvery?",
+    "answer": "3 to 5 business days",
+    "similarity_score": 0.366,
+    "timestamp": "2026-01-05T16:09:48.471896"
+  },
+  {
+    "question": "How long does delivery take?",
+    "answer": "3 to 5 business days",
+    "similarity_score": 0.637,
+    "timestamp": "2026-01-05T16:14:26.316225"
+  }
+]

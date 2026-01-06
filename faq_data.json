@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "category": "returns",
+    "text": "Return policy: Customers can return unused products within 30 days of purchase. Items must be in original packaging with proof of purchase."
+  },
+  {
+    "id": 2,
+    "category": "returns",
+    "text": "Refunds: Refunds are processed within 5 to 7 business days after the returned item is inspected."
+  },
+  {
+    "id": 3,
+    "category": "returns",
+    "text": "Damaged items: Customers must report damaged or defective products within 48 hours of delivery to receive a replacement or refund."
+  },
+  {
+    "id": 4,
+    "category": "shipping",
+    "text": "Shipping policy: We offer both domestic and international shipping to most countries worldwide."
+  },
+  {
+    "id": 5,
+    "category": "shipping",
+    "text": "Delivery time: Domestic orders are delivered within 3 to 5 business days, while international orders take 7 to 14 business days."
+  },
+  {
+    "id": 6,
+    "category": "payments",
+    "text": "Payment methods: We accept credit cards, debit cards, UPI, PayPal, and net banking."
+  },
+  {
+    "id": 7,
+    "category": "support",
+    "text": "Customer support: You can contact support via email at support@example.com or by calling 1800-123-456."
+  },
+  {
+    "id": 8,
+    "category": "warranty",
+    "text": "Warranty policy: Most electronic products come with a standard 1-year manufacturer warranty."
+  }
+]
