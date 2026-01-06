@@ -19,18 +19,37 @@ This project demonstrates practical usage of **LLMs, vector databases, and backe
 
 ---
 
-## 🧱 Tech Stack
+## ⚙️ Installation & Setup
+1️⃣ Clone the Repository
+git clone https://github.com/your-username/FAQ_chatbot.git
+cd FAQ_chatbot
 
-- **Python**
-- **Streamlit**
-- **FAISS**
-- **HuggingFace Transformers**
-- **Sentence-Transformers**
-- **LangChain Embeddings**
-- **NumPy**
+2️⃣ Create a Virtual Environment (Recommended)
+python3 -m venv venv
+source venv/bin/activate
+On Windows:
+venv\Scripts\activate
+
+3️⃣ Install Dependencies
+pip install -r requirements.txt
+
+4️⃣ Prepare FAQ Data
+Ensure your FAQ knowledge base is available in:
+faq_data.json
+
+5️⃣ Run the Application
+streamlit run faq_bot.py
 
 ---
+## 🧪 Usage
+1. Open the Streamlit app in your browser.
+2. Select a question from Suggested Questions or type your own.
+3. The chatbot retrieves relevant FAQ content using FAISS.
+4. The LLM generates an answer based only on retrieved context.
+5. Confidence-based filtering prevents hallucinated responses.
 
+
+---
 ## 🏗️ System Architecture
 
 ```text
